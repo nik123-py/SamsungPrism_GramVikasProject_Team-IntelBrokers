@@ -3,6 +3,7 @@
 **Team**: IntelBrokers  
 **Hackathon**: Samsung PRISM GenAI Hackathon 2025  
 **Submission Tag**: `SamsungPRISMGenAIHackathon2025`
+
 **Demo Video**: https://drive.google.com/file/d/16I97oxgyqRVKZwcrvVrfy9Gl_AMwIm8R/view?usp=sharing
 
 ## 🌾 Project Overview
